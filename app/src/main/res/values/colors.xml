@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryDark">#00b2bc</color>
+    <color name="colorAccent">#ff706a</color>
+    <color name="colorPrimarySpend">#F65575</color>
+    <color name="colorPrimaryDarkSpend">#C63D58</color>
+    <color name="colorAccentSpend">#FF1241</color>
+    <color name="colorPrimaryIncome">#5DF38F</color>
+    <color name="colorPrimaryDarkIncome">#3B9759</color>
+    <color name="colorAccentIncome">#1EF466</color>
+    <!--
+    Colors Menu
+    -->
+    <color name="colorMenuNormal">#FF564F</color>
+    <color name="colorMenuPressed">#FFB5B2</color>
+    <color name="colorMenuButton">#0099A1</color>
+</resources>
